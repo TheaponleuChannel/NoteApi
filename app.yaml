@@ -1,0 +1,6 @@
+runtime: aspnetcore
+env: flex
+
+handlers:
+  - url: /.*
+    script: auto
